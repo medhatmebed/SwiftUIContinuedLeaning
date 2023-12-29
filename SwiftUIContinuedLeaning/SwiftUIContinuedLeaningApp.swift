@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIContinuedLeaningApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WeakSelfBootcamp()
         }
     }
 }
