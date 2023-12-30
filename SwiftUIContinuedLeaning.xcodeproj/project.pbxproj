@@ -15,6 +15,7 @@
 		8B60378F2B3F3DD6006071D0 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B60378E2B3F3DD6006071D0 /* BackgroundThreadBootcamp.swift */; };
 		8B6037912B3F4BB6006071D0 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037902B3F4BB6006071D0 /* WeakSelfBootcamp.swift */; };
 		8B6037932B3F54C2006071D0 /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037922B3F54C2006071D0 /* TypealiasBootcamp.swift */; };
+		8B6037952B3F654E006071D0 /* DownloadWithEscaping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037942B3F654E006071D0 /* DownloadWithEscaping.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		8B60378E2B3F3DD6006071D0 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		8B6037902B3F4BB6006071D0 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		8B6037922B3F54C2006071D0 /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
+		8B6037942B3F654E006071D0 /* DownloadWithEscaping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscaping.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				8B60378E2B3F3DD6006071D0 /* BackgroundThreadBootcamp.swift */,
 				8B6037902B3F4BB6006071D0 /* WeakSelfBootcamp.swift */,
 				8B6037922B3F54C2006071D0 /* TypealiasBootcamp.swift */,
+				8B6037942B3F654E006071D0 /* DownloadWithEscaping.swift */,
 				8B6037822B3E7C6B006071D0 /* Assets.xcassets */,
 				8B6037842B3E7C6B006071D0 /* Preview Content */,
 			);
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B6037812B3E7C69006071D0 /* ContentView.swift in Sources */,
+				8B6037952B3F654E006071D0 /* DownloadWithEscaping.swift in Sources */,
 				8B60377F2B3E7C69006071D0 /* SwiftUIContinuedLeaningApp.swift in Sources */,
 				8B60378F2B3F3DD6006071D0 /* BackgroundThreadBootcamp.swift in Sources */,
 				8B6037932B3F54C2006071D0 /* TypealiasBootcamp.swift in Sources */,
