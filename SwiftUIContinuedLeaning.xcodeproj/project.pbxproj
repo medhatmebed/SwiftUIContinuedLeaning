@@ -16,6 +16,8 @@
 		8B6037912B3F4BB6006071D0 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037902B3F4BB6006071D0 /* WeakSelfBootcamp.swift */; };
 		8B6037932B3F54C2006071D0 /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037922B3F54C2006071D0 /* TypealiasBootcamp.swift */; };
 		8B6037952B3F654E006071D0 /* DownloadWithEscaping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037942B3F654E006071D0 /* DownloadWithEscaping.swift */; };
+		8B6037B32B40BF93006071D0 /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037B22B40BF93006071D0 /* DownloadWithCombine.swift */; };
+		8B6037B52B40E065006071D0 /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037B42B40E065006071D0 /* SubscriberBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		8B6037902B3F4BB6006071D0 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		8B6037922B3F54C2006071D0 /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
 		8B6037942B3F654E006071D0 /* DownloadWithEscaping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscaping.swift; sourceTree = "<group>"; };
+		8B6037B22B40BF93006071D0 /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
+		8B6037B42B40E065006071D0 /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,8 @@
 				8B6037902B3F4BB6006071D0 /* WeakSelfBootcamp.swift */,
 				8B6037922B3F54C2006071D0 /* TypealiasBootcamp.swift */,
 				8B6037942B3F654E006071D0 /* DownloadWithEscaping.swift */,
+				8B6037B22B40BF93006071D0 /* DownloadWithCombine.swift */,
+				8B6037B42B40E065006071D0 /* SubscriberBootcamp.swift */,
 				8B6037822B3E7C6B006071D0 /* Assets.xcassets */,
 				8B6037842B3E7C6B006071D0 /* Preview Content */,
 			);
@@ -157,6 +163,8 @@
 				8B60377F2B3E7C69006071D0 /* SwiftUIContinuedLeaningApp.swift in Sources */,
 				8B60378F2B3F3DD6006071D0 /* BackgroundThreadBootcamp.swift in Sources */,
 				8B6037932B3F54C2006071D0 /* TypealiasBootcamp.swift in Sources */,
+				8B6037B52B40E065006071D0 /* SubscriberBootcamp.swift in Sources */,
+				8B6037B32B40BF93006071D0 /* DownloadWithCombine.swift in Sources */,
 				8B60378D2B3E887C006071D0 /* LongPressGestureBootcamp.swift in Sources */,
 				8B6037912B3F4BB6006071D0 /* WeakSelfBootcamp.swift in Sources */,
 			);
