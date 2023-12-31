@@ -18,6 +18,7 @@
 		8B6037952B3F654E006071D0 /* DownloadWithEscaping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037942B3F654E006071D0 /* DownloadWithEscaping.swift */; };
 		8B6037B32B40BF93006071D0 /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037B22B40BF93006071D0 /* DownloadWithCombine.swift */; };
 		8B6037B52B40E065006071D0 /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037B42B40E065006071D0 /* SubscriberBootcamp.swift */; };
+		8B6037D42B41F68D006071D0 /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6037D32B41F68D006071D0 /* EscapingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		8B6037942B3F654E006071D0 /* DownloadWithEscaping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscaping.swift; sourceTree = "<group>"; };
 		8B6037B22B40BF93006071D0 /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 		8B6037B42B40E065006071D0 /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
+		8B6037D32B41F68D006071D0 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				8B6037942B3F654E006071D0 /* DownloadWithEscaping.swift */,
 				8B6037B22B40BF93006071D0 /* DownloadWithCombine.swift */,
 				8B6037B42B40E065006071D0 /* SubscriberBootcamp.swift */,
+				8B6037D32B41F68D006071D0 /* EscapingBootcamp.swift */,
 				8B6037822B3E7C6B006071D0 /* Assets.xcassets */,
 				8B6037842B3E7C6B006071D0 /* Preview Content */,
 			);
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B6037D42B41F68D006071D0 /* EscapingBootcamp.swift in Sources */,
 				8B6037812B3E7C69006071D0 /* ContentView.swift in Sources */,
 				8B6037952B3F654E006071D0 /* DownloadWithEscaping.swift in Sources */,
 				8B60377F2B3E7C69006071D0 /* SwiftUIContinuedLeaningApp.swift in Sources */,
